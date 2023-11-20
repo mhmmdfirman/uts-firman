@@ -1,0 +1,17 @@
+{
+    "name": "Aplikasi Grosir Murah",
+    "short_name": "Grosir VMN",
+    "description": "Aplikasi Grosir Murah untuk berbelanja produk sehari-hari",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#743723",
+    "theme_color": "#009688",
+    "icons": [
+      {
+        "src": "path/to/icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
